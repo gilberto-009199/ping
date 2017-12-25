@@ -1,0 +1,31 @@
+C:\Users\Administrador@IL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Administrador@IL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Administrador@IL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Administrador@IL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrador@IL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrador@IL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Administrador@IL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Administrador@IL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Administrador@IL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\#PING.exe
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\#PING.pdb
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\#PING.xml
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\#PING.exe
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\#PING.xml
+C:\Users\Administrador@IL\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\#PING.pdb
+Z:\outros\programa\#PING\WindowsApplication1\obj\x86\Debug\#PING.exe
+Z:\outros\programa\#PING\WindowsApplication1\obj\x86\Debug\#PING.xml
+Z:\outros\programa\#PING\WindowsApplication1\obj\x86\Debug\#PING.pdb
+Z:\outros\programa\#PING\WindowsApplication1\bin\Debug\#PING.exe
+Z:\outros\programa\#PING\WindowsApplication1\bin\Debug\#PING.pdb
+Z:\outros\programa\#PING\WindowsApplication1\bin\Debug\#PING.xml
+Z:\outros\programa\#PING\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\outros\programa\#PING\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+Z:\outros\programa\#PING\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+Z:\outros\programa\#PING\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\outros\programa\#PING\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
