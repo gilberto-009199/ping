@@ -2,7 +2,7 @@
 
 <img src="./screen.gif" alt="Visual Basic" width="612px">
 
-<img src="./assets/visualbasic.svg" alt="Visual Basic" width="48px" align="right">
+<img src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/visualbasic.svg" alt="Visual Basic" width="48px" align="right">
 
 Application Desktop for Broadcast, usando **visual basic**.
 
