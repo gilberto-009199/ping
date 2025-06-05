@@ -6,6 +6,7 @@
 
 Application Desktop for Broadcast, usando **visual basic**.
 
+<!--
 "O passado certamente não foi ruim!!!" Gil
-
 "Obrigado por aproveitar tudo ao maximo 17 anos, o passado nunca volta"  Gil
+-->
